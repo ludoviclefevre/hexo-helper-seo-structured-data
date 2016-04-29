@@ -1,12 +1,12 @@
 # hexo-helper-seo-structured-data
 
+Injects Website and Organization structured data.
+
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![Dependency Status][daviddm-url]][daviddm-image]
 [![Code Climate](https://codeclimate.com/github/ludoviclefevre/hexo-helper-seo-structured-data/badges/gpa.svg)](https://codeclimate.com/github/ludoviclefevre/hexo-helper-seo-structured-data)
 [![Codacy Badge](https://www.codacy.com/project/badge/afb430e84ace4295acb02b9f7e70566b)](https://www.codacy.com/app/contact_18/hexo-helper-seo-structured-data)
-
-Injects Website and Organization structured data.
 
 [Google Structured Data](https://developers.google.com/structured-data/customize/overview)
 
