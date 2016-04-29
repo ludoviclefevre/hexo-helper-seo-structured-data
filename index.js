@@ -1,1 +1,1 @@
-hexo.extend.helper.register('seoStructuredData', require('./lib/index'));
+hexo.extend.helper.register('seoStructuredData', require('./lib/helper'));
