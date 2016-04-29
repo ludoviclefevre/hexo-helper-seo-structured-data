@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-seo-structured-data",
-  "version": "0.0.2",
+  "version": "0.0.3-pre",
   "description": "",
   "main": "index.js",
   "engines": {
@@ -27,7 +27,7 @@
   "devDependencies": {
     "chai": "3.5.0",
     "coveralls": "2.11.9",
-    "grunt": "1.0.1",
+    "grunt": "0.4.5",
     "grunt-cli": "1.2.0",
     "grunt-contrib-jshint": "1.0.0",
     "grunt-contrib-nodeunit": "1.0.0",
