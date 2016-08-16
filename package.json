@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-seo-structured-data",
-  "version": "0.0.3-pre",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "engines": {
