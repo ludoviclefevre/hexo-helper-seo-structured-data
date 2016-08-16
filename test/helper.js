@@ -30,7 +30,6 @@ describe('SEO Structured Data Helper', function () {
       }
     };
 
-    return helper(config)
-      .then(checkAssertions);
+    checkAssertions(helper(config));
   });
 });
